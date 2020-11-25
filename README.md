@@ -1,2 +1,2 @@
 # Study-Javascript
-My study record of Javascript
+My study record for Javascript
